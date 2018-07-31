@@ -1,0 +1,16 @@
+#tic-tac-toe-11, #tic-tac-toe-12, #tic-tac-toe-13,
+#tic-tac-toe-21, #tic-tac-toe-22, #tic-tac-toe-23,
+#tic-tac-toe-31, #tic-tac-toe-32, #tic-tac-toe-33
+{
+width:40px; height:40px;
+margin:2px 2px 2px 2px;
+readonly:true;
+text-align:center;
+}
+
+#restart,#replay, .levels
+{
+vertical-align:top;
+margin-left:25px;
+margin-top:5px;
+}
